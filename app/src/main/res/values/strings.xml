@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColorWord</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_start_game">Start Game</string>
+    <string name="title_activity_game">GameActivity</string>
+</resources>
